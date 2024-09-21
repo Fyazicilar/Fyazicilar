@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
-
 - 📫 How to reach me **yazicilarfurkan@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
