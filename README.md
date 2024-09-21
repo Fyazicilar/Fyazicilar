@@ -1,4 +1,4 @@
-[! [MasterHead](https://tenor.com/tr/view/mert-hakan-yandaş-fenerbahçe-gif-17911862905718047787)
+
 
 <h1 align="center">Hi 👋, I'm Furkan Yazıcılar</h1>
 <h3 align="center">I'm a Front-End Developer from Turkey</h3>
